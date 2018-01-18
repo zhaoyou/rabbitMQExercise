@@ -1,0 +1,2 @@
+# rabbitMQExercise
+RabbitMQ Exercise demo
